@@ -1,4 +1,4 @@
-## Free Online Calculators - Math, Fitness, Finance, Science | acalculate.com 👋
+# Free Online Calculators - Math, Fitness, Finance, Science | acalculate.com 👋
 
 
 > Acalculate.com offers 270+ fast, accurate online calculators for math, finance, health, and more, ensuring efficient and secure calculations for all your needs.
